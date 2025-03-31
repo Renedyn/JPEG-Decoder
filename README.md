@@ -1,3 +1,3 @@
-# `jpeg-decoder/faster`
+# `jpeg-decoder`
 
-Условие задачи описано [здесь](../readme.md).
+Реализация декодировщика jpeg формата на C++
